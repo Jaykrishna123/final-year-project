@@ -1,0 +1,26 @@
+{
+  "expo": {
+   "name": "Tracker Medico",
+   "icon": "./assets/icon.png",
+   "version": "1.0.0",
+   "slug": "Visual",
+   "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  },
+   "ios": {
+     "bundleIdentifier": "com.yourcompany.Visual",
+     "buildNumber": "1.0.0",
+     "supportsTablet": true
+   },
+   "web": {
+    "favicon": "./assets/favicon.png"
+  },
+   "android": {
+     "package": "com.yourcompany.Visual",
+     "versionCode": 1
+   }
+ 
+  }
+}
